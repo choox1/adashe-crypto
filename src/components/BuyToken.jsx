@@ -34,7 +34,7 @@ const BuyToken = () => {
           Buy Token
           </h4>
           <p className="font-normal text-sm md:text-base leading-6 3xl:leading-8  text-black">
-          ADSE bought on Pink Sale will be available to buyers immediately. US citizens and OFAC-sanctioned countries are strictly prohibited from participating in this sale.
+          ADSE bought on Pink Sale will be available to buyers immediately.. US citizens and OFAC-sanctioned countries are strictly prohibited from participating in this sale.
           </p>
 
           <h6 className="text-xl xl:text-[25px] font-bold text-[#4B3BE4] mt-10">
