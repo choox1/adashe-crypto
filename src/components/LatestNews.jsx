@@ -1,10 +1,7 @@
-
-import React, { useEffect, useState } from "react";
+import React from "react";
 import LatestNewsList from "./LatestNewsList";
 
-
 const LatestNews = () => {
-  
   return (
     <>
       <div id="news" className="my-16 md:my-24 xl:my-36 3xl:my-[162px]">
@@ -14,8 +11,8 @@ const LatestNews = () => {
               Latest News
             </h2>
           </div>
-          <div className="  ">
-       <LatestNewsList/>
+          <div>
+            <LatestNewsList />
           </div>
         </div>
       </div>
